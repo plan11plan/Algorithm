@@ -2,7 +2,7 @@ package backjoon.블랙잭;
 
 import java.util.*;
 
-public class Main {
+ class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
